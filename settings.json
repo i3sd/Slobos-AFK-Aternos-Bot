@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sleepsmp-g6yH.aternos.me:35842",
+    "ip": "sleepsmp-g6yH.aternos.me",
     "port": 35842,
     "version": "",
     "try-creative": false
